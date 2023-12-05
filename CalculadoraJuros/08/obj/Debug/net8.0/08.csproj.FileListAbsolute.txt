@@ -1,0 +1,14 @@
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.AssemblyInfoInputs.cache
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.AssemblyInfo.cs
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.csproj.CoreCompileInputs.cache
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\bin\Debug\net8.0\08.exe
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\bin\Debug\net8.0\08.deps.json
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\bin\Debug\net8.0\08.runtimeconfig.json
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\bin\Debug\net8.0\08.dll
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\bin\Debug\net8.0\08.pdb
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.dll
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\refint\08.dll
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.pdb
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.genruntimeconfig.cache
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\ref\08.dll
