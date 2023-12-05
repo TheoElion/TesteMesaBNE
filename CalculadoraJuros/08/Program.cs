@@ -39,7 +39,7 @@
             if(contadorMes == MesSaque) {
                 Console.WriteLine("Qual o valor do saque?");
                 saque = double.Parse(Console.ReadLine());
-                valorFuturo -= saque;
+                valorPresente -= saque;
 
             } else {
                 saque = 0;

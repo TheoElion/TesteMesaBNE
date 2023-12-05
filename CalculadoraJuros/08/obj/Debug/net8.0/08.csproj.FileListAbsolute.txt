@@ -12,3 +12,4 @@ C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\
 C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.pdb
 C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\08.genruntimeconfig.cache
 C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadoraJuros\08\obj\Debug\net8.0\ref\08.dll
+C:\Users\theoe\OneDrive\Área de Trabalho\Teste de Mesa\calculadorajuros\08\obj\Debug\net8.0\08.sourcelink.json

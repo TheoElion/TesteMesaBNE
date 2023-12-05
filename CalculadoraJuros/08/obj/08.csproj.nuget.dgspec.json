@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadoraJuros\\08\\08.csproj": {}
+    "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadorajuros\\08\\08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadoraJuros\\08\\08.csproj": {
+    "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadorajuros\\08\\08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadoraJuros\\08\\08.csproj",
+        "projectUniqueName": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadorajuros\\08\\08.csproj",
         "projectName": "08",
-        "projectPath": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadoraJuros\\08\\08.csproj",
+        "projectPath": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadorajuros\\08\\08.csproj",
         "packagesPath": "C:\\Users\\theoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadoraJuros\\08\\obj\\",
+        "outputPath": "C:\\Users\\theoe\\OneDrive\\Área de Trabalho\\Teste de Mesa\\calculadorajuros\\08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
